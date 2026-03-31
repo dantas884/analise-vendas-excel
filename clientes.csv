@@ -1,0 +1,201 @@
+cliente_id,nome,cidade,data_cadastro
+1,Cliente_1,Betim,2023-03-04
+2,Cliente_2,Uberlândia,2023-12-18
+3,Cliente_3,Belo Horizonte,2023-08-19
+4,Cliente_4,Betim,2023-08-29
+5,Cliente_5,Betim,2023-02-21
+6,Cliente_6,Uberlândia,2023-04-06
+7,Cliente_7,Belo Horizonte,2023-08-10
+8,Cliente_8,Belo Horizonte,2023-08-19
+9,Cliente_9,Betim,2023-08-25
+10,Cliente_10,Contagem,2023-05-23
+11,Cliente_11,Betim,2023-06-20
+12,Cliente_12,Betim,2023-01-29
+13,Cliente_13,Betim,2023-02-05
+14,Cliente_14,Betim,2023-01-13
+15,Cliente_15,Uberlândia,2023-06-09
+16,Cliente_16,Belo Horizonte,2023-11-23
+17,Cliente_17,Uberlândia,2023-07-06
+18,Cliente_18,Uberlândia,2023-08-31
+19,Cliente_19,Uberlândia,2023-03-27
+20,Cliente_20,Betim,2023-10-11
+21,Cliente_21,Contagem,2023-03-07
+22,Cliente_22,Belo Horizonte,2023-06-19
+23,Cliente_23,Contagem,2023-02-14
+24,Cliente_24,Uberlândia,2023-03-03
+25,Cliente_25,Uberlândia,2023-05-14
+26,Cliente_26,Contagem,2023-10-11
+27,Cliente_27,Contagem,2023-01-28
+28,Cliente_28,Contagem,2023-04-18
+29,Cliente_29,Uberlândia,2023-02-13
+30,Cliente_30,Uberlândia,2023-12-06
+31,Cliente_31,Belo Horizonte,2023-10-13
+32,Cliente_32,Belo Horizonte,2023-11-27
+33,Cliente_33,Uberlândia,2023-05-08
+34,Cliente_34,Contagem,2023-12-14
+35,Cliente_35,Contagem,2023-08-19
+36,Cliente_36,Belo Horizonte,2023-07-09
+37,Cliente_37,Uberlândia,2023-08-13
+38,Cliente_38,Belo Horizonte,2023-10-10
+39,Cliente_39,Belo Horizonte,2023-05-01
+40,Cliente_40,Betim,2023-04-26
+41,Cliente_41,Betim,2023-08-21
+42,Cliente_42,Betim,2023-09-16
+43,Cliente_43,Contagem,2023-12-25
+44,Cliente_44,Uberlândia,2023-07-17
+45,Cliente_45,Uberlândia,2023-05-17
+46,Cliente_46,Uberlândia,2023-11-14
+47,Cliente_47,Uberlândia,2023-06-14
+48,Cliente_48,Betim,2023-08-13
+49,Cliente_49,Contagem,2023-11-03
+50,Cliente_50,Contagem,2023-08-22
+51,Cliente_51,Betim,2023-06-21
+52,Cliente_52,Contagem,2023-06-01
+53,Cliente_53,Betim,2023-11-11
+54,Cliente_54,Uberlândia,2023-06-09
+55,Cliente_55,Betim,2023-04-06
+56,Cliente_56,Uberlândia,2023-08-21
+57,Cliente_57,Uberlândia,2023-06-29
+58,Cliente_58,Belo Horizonte,2023-04-23
+59,Cliente_59,Betim,2023-11-14
+60,Cliente_60,Belo Horizonte,2023-02-21
+61,Cliente_61,Betim,2023-09-25
+62,Cliente_62,Betim,2023-10-22
+63,Cliente_63,Belo Horizonte,2023-04-23
+64,Cliente_64,Belo Horizonte,2023-04-11
+65,Cliente_65,Betim,2023-04-23
+66,Cliente_66,Contagem,2023-03-22
+67,Cliente_67,Uberlândia,2023-07-06
+68,Cliente_68,Belo Horizonte,2023-04-23
+69,Cliente_69,Uberlândia,2023-01-02
+70,Cliente_70,Contagem,2023-05-10
+71,Cliente_71,Contagem,2023-08-08
+72,Cliente_72,Contagem,2023-02-23
+73,Cliente_73,Belo Horizonte,2023-12-09
+74,Cliente_74,Contagem,2023-08-12
+75,Cliente_75,Belo Horizonte,2023-08-13
+76,Cliente_76,Contagem,2023-05-06
+77,Cliente_77,Uberlândia,2023-05-10
+78,Cliente_78,Uberlândia,2023-02-22
+79,Cliente_79,Betim,2023-06-21
+80,Cliente_80,Uberlândia,2023-08-06
+81,Cliente_81,Betim,2023-06-09
+82,Cliente_82,Uberlândia,2023-07-17
+83,Cliente_83,Belo Horizonte,2023-09-04
+84,Cliente_84,Uberlândia,2023-11-20
+85,Cliente_85,Betim,2023-07-22
+86,Cliente_86,Betim,2023-07-03
+87,Cliente_87,Contagem,2023-05-03
+88,Cliente_88,Belo Horizonte,2023-09-12
+89,Cliente_89,Uberlândia,2023-10-21
+90,Cliente_90,Contagem,2023-10-07
+91,Cliente_91,Uberlândia,2023-11-21
+92,Cliente_92,Uberlândia,2023-04-08
+93,Cliente_93,Contagem,2023-07-17
+94,Cliente_94,Contagem,2023-08-28
+95,Cliente_95,Contagem,2023-05-24
+96,Cliente_96,Contagem,2023-04-07
+97,Cliente_97,Contagem,2023-07-20
+98,Cliente_98,Uberlândia,2023-05-04
+99,Cliente_99,Contagem,2023-07-06
+100,Cliente_100,Belo Horizonte,2023-11-22
+101,Cliente_101,Betim,2023-12-15
+102,Cliente_102,Contagem,2023-09-16
+103,Cliente_103,Contagem,2023-05-28
+104,Cliente_104,Uberlândia,2023-09-09
+105,Cliente_105,Contagem,2023-12-12
+106,Cliente_106,Contagem,2023-05-27
+107,Cliente_107,Contagem,2023-05-28
+108,Cliente_108,Uberlândia,2023-12-18
+109,Cliente_109,Contagem,2023-07-18
+110,Cliente_110,Betim,2023-11-04
+111,Cliente_111,Uberlândia,2023-05-08
+112,Cliente_112,Betim,2023-02-08
+113,Cliente_113,Uberlândia,2023-12-04
+114,Cliente_114,Contagem,2023-12-26
+115,Cliente_115,Betim,2023-05-09
+116,Cliente_116,Uberlândia,2023-09-24
+117,Cliente_117,Belo Horizonte,2023-05-31
+118,Cliente_118,Contagem,2023-10-25
+119,Cliente_119,Uberlândia,2023-04-09
+120,Cliente_120,Belo Horizonte,2023-09-20
+121,Cliente_121,Uberlândia,2023-09-09
+122,Cliente_122,Belo Horizonte,2023-05-24
+123,Cliente_123,Contagem,2023-12-12
+124,Cliente_124,Betim,2023-04-22
+125,Cliente_125,Belo Horizonte,2023-03-01
+126,Cliente_126,Uberlândia,2023-01-02
+127,Cliente_127,Contagem,2023-10-31
+128,Cliente_128,Belo Horizonte,2023-09-11
+129,Cliente_129,Uberlândia,2023-05-20
+130,Cliente_130,Uberlândia,2023-02-06
+131,Cliente_131,Uberlândia,2023-06-09
+132,Cliente_132,Belo Horizonte,2023-01-09
+133,Cliente_133,Belo Horizonte,2023-08-21
+134,Cliente_134,Belo Horizonte,2023-04-09
+135,Cliente_135,Betim,2023-05-27
+136,Cliente_136,Belo Horizonte,2023-10-31
+137,Cliente_137,Belo Horizonte,2023-07-27
+138,Cliente_138,Belo Horizonte,2023-05-11
+139,Cliente_139,Betim,2023-06-01
+140,Cliente_140,Belo Horizonte,2023-02-23
+141,Cliente_141,Uberlândia,2023-04-30
+142,Cliente_142,Belo Horizonte,2023-06-10
+143,Cliente_143,Uberlândia,2023-04-26
+144,Cliente_144,Uberlândia,2023-03-16
+145,Cliente_145,Uberlândia,2023-04-23
+146,Cliente_146,Betim,2023-04-14
+147,Cliente_147,Betim,2023-12-06
+148,Cliente_148,Betim,2023-09-11
+149,Cliente_149,Belo Horizonte,2023-08-15
+150,Cliente_150,Uberlândia,2023-04-22
+151,Cliente_151,Betim,2023-04-09
+152,Cliente_152,Betim,2023-06-02
+153,Cliente_153,Belo Horizonte,2023-12-15
+154,Cliente_154,Betim,2023-12-04
+155,Cliente_155,Belo Horizonte,2023-07-13
+156,Cliente_156,Contagem,2023-11-06
+157,Cliente_157,Betim,2023-06-12
+158,Cliente_158,Contagem,2023-07-27
+159,Cliente_159,Belo Horizonte,2023-06-18
+160,Cliente_160,Uberlândia,2023-06-10
+161,Cliente_161,Betim,2023-03-09
+162,Cliente_162,Belo Horizonte,2023-10-16
+163,Cliente_163,Uberlândia,2023-10-04
+164,Cliente_164,Uberlândia,2023-10-31
+165,Cliente_165,Contagem,2023-05-15
+166,Cliente_166,Belo Horizonte,2023-07-14
+167,Cliente_167,Uberlândia,2023-05-08
+168,Cliente_168,Betim,2023-02-02
+169,Cliente_169,Betim,2023-06-25
+170,Cliente_170,Contagem,2023-01-22
+171,Cliente_171,Uberlândia,2023-08-26
+172,Cliente_172,Belo Horizonte,2023-06-07
+173,Cliente_173,Betim,2023-02-07
+174,Cliente_174,Uberlândia,2023-08-18
+175,Cliente_175,Uberlândia,2023-12-31
+176,Cliente_176,Contagem,2023-02-20
+177,Cliente_177,Betim,2023-09-21
+178,Cliente_178,Betim,2023-10-10
+179,Cliente_179,Belo Horizonte,2023-01-27
+180,Cliente_180,Betim,2023-08-14
+181,Cliente_181,Belo Horizonte,2023-10-04
+182,Cliente_182,Betim,2023-10-13
+183,Cliente_183,Contagem,2023-04-07
+184,Cliente_184,Betim,2023-10-11
+185,Cliente_185,Belo Horizonte,2023-11-13
+186,Cliente_186,Belo Horizonte,2023-10-31
+187,Cliente_187,Contagem,2023-05-27
+188,Cliente_188,Betim,2023-01-04
+189,Cliente_189,Betim,2023-02-04
+190,Cliente_190,Contagem,2023-07-11
+191,Cliente_191,Betim,2023-02-18
+192,Cliente_192,Betim,2023-01-17
+193,Cliente_193,Belo Horizonte,2023-06-21
+194,Cliente_194,Betim,2023-08-08
+195,Cliente_195,Betim,2023-06-07
+196,Cliente_196,Contagem,2023-02-15
+197,Cliente_197,Contagem,2023-01-06
+198,Cliente_198,Uberlândia,2023-04-09
+199,Cliente_199,Belo Horizonte,2023-08-21
+200,Cliente_200,Betim,2023-02-06
